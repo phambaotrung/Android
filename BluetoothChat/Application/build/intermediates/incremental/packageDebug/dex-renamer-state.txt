@@ -1,0 +1,7 @@
+#Sun Oct 29 01:34:53 SGT 2017
+base.0=C\:\\Users\\Trung Pham\\Desktop\\BluetoothChat\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db83b31ac942f472ea2e55db0829ae9ae4015f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Trung Pham\\Desktop\\BluetoothChat\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cecb3b7492d4adaafeea8f9deacc27ab1d166037\\classes.dex
+base.1=C\:\\Users\\Trung Pham\\Desktop\\BluetoothChat\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cecb3b7492d4adaafeea8f9deacc27ab1d166037
+file.0=C\:\\Users\\Trung Pham\\Desktop\\BluetoothChat\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4db83b31ac942f472ea2e55db0829ae9ae4015f5\\classes.dex
